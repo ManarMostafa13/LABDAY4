@@ -19,7 +19,14 @@ namespace App
 
             foreach (object i in array1)
                 Console.WriteLine(i);
+
+            Console.WriteLine( );
+            array1.RemoveAt(1);
+            foreach (object i in array1)
+            Console.WriteLine( i );
         }
+
+        
 
 
 

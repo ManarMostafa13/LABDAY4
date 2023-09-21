@@ -56,17 +56,18 @@ public class ArrayList : IEnumerable
     }
 
 
-    public void Remove(int index) {
+    public void RemoveAt(int index) {
       for(int i = 0;i<count;i++)
         {
             if (i == index)
             {
                 List[i] = List[i+1];
+               
             }
         }
-    
-    
-    
+
+        List[count - 1] = null;
+
     }
     //public class Enumer : IEnumerator
     //{
