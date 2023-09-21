@@ -67,7 +67,11 @@ public class ArrayList : IEnumerable
         }
 
         List[count - 1] = null;
+<<<<<<< HEAD
         count = count - 1;
+=======
+        count=count-1;
+>>>>>>> 3767578ec3c1546b135d1e69810a97664656c3f1
 
     }
     //public class Enumer : IEnumerator
