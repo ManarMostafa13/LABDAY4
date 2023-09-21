@@ -1,0 +1,14 @@
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\bin\Debug\net6.0\App.exe
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\bin\Debug\net6.0\App.deps.json
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\bin\Debug\net6.0\App.runtimeconfig.json
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\bin\Debug\net6.0\App.dll
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\bin\Debug\net6.0\App.pdb
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\App.dll
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\refint\App.dll
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\App.pdb
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\ref\App.dll
