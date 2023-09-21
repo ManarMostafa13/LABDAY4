@@ -12,3 +12,21 @@ D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\refint\App.dll
 D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\App.pdb
 D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\App.genruntimeconfig.cache
 D:\.NET\Advanced C#\Day4\Lab4\ArrayList\App\obj\Debug\net6.0\ref\App.dll
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\App.dll
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\refint\App.dll
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\App.pdb
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\bin\Debug\net6.0\App.exe
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\bin\Debug\net6.0\App.deps.json
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\bin\Debug\net6.0\App.runtimeconfig.json
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\bin\Debug\net6.0\App.dll
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\bin\Debug\net6.0\App.pdb
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\bin\Debug\net6.0\ArrayList.dll
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\bin\Debug\net6.0\ArrayList.pdb
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\App.csproj.CopyComplete
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+D:\iti\net track\.net track\adv c#\day4\LABDAY4\Lab4\ArrayList\App\obj\Debug\net6.0\ref\App.dll

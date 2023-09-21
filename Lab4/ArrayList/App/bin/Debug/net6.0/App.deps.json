@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "App/1.0.0": {
+        "dependencies": {
+          "ArrayList": "1.0.0"
+        },
         "runtime": {
           "App.dll": {}
+        }
+      },
+      "ArrayList/1.0.0": {
+        "runtime": {
+          "ArrayList.dll": {}
         }
       }
     }
   },
   "libraries": {
     "App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrayList/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

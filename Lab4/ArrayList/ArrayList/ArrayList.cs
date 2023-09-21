@@ -67,6 +67,7 @@ public class ArrayList : IEnumerable
         }
 
         List[count - 1] = null;
+        count = count - 1;
 
     }
     //public class Enumer : IEnumerator
